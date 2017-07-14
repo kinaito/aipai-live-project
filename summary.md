@@ -11,22 +11,23 @@
             * [播放器全屏](function/playerfs.md)
             * [状态和提示](function/status.md)
         * [弹幕](function/danmaku.md)
-        * [送礼](function/gift.md)
+        * 送礼
+            * [赠送礼物（补充中）](function/gift.md)
+            * [送礼效果（补充中）](function/gifteffect.md)
         * [充值](function/charge.md)
         * 聊天列表
             * [聊天列表](function/chatlist.md)
-            * [菜单-观众](function/setting_user.md)
             * [观众管理](function/usermanage.md)
         * [榜单](function/ranking.md)
         * [推荐信息](function/recommend.md)
         * [运营位](function/operations.md)
     * [入口](entrance.md)
-    * 直播收益
+    * 直播收益（待编写）
         * 佣金获取记录
         * 豆豆红包
         * 直播数据
         * 常见问题
-* APP客户端
+* APP客户端（待编写）
     * 功能概述
     * 直播房间
         * 播放器
@@ -42,7 +43,7 @@
             * 聊天列表
         * 榜单
     * 入口
-* 运营后台
+* 运营后台（待编写）
     * 主播
         * 主播列表
         * 审核
@@ -51,4 +52,8 @@
     * 收益数据
     * 场次数据
     * 数据统计
+* 更新记录
+    * [Log](log.md)
+    * 废弃的功能
+        * [菜单-观众](function/setting_user.md)
 
