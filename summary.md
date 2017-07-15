@@ -12,8 +12,9 @@
             * [状态和提示](function/status.md)
         * [弹幕](function/danmaku.md)
         * 送礼
-            * [赠送礼物（补充中）](function/gift.md)
-            * [送礼效果（补充中）](function/gifteffect.md)
+            * [赠送礼物](function/gift.md)
+            * [送礼效果](function/gifteffect.md)
+            * [礼物设定(编辑中)](function/giftdesign.md)
         * [充值](function/charge.md)
         * 聊天列表
             * [聊天列表](function/chatlist.md)
