@@ -1,6 +1,10 @@
 # Summary
 
 ## 爱拍热播
+* 更新记录
+    * [Log](log.md)
+    * 废弃的功能
+        * [菜单-观众](function/setting_user.md)
 * [业务描述](readme.md)
 * PC网页
     * [功能概述](ui.md)
@@ -14,7 +18,7 @@
         * 送礼
             * [赠送礼物](function/gift.md)
             * [送礼效果](function/gifteffect.md)
-            * [礼物设定(编辑中)](function/giftdesign.md)
+            * [礼物设定](function/giftdesign.md)
         * [充值](function/charge.md)
         * 聊天列表
             * [聊天列表](function/chatlist.md)
@@ -53,8 +57,5 @@
     * 收益数据
     * 场次数据
     * 数据统计
-* 更新记录
-    * [Log](log.md)
-    * 废弃的功能
-        * [菜单-观众](function/setting_user.md)
+
 
