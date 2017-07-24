@@ -4,47 +4,48 @@
 * [更新记录](log.md)
 * [业务描述](readme.md)
 * PC网页
-    * [功能概述](ui.md)
+    * [功能概述](pc/overview.md)
     * 直播房间
-        * [房间信息](function/roomadmin.md)
+        * [房间信息](pc/roomadmin.md)
         * 播放器
-            * [播放器默认](function/player.md)
-            * [播放器全屏](function/playerfs.md)
-            * [状态和提示](function/status.md)
-        * [弹幕](function/danmaku.md)
+            * [播放器默认](pc/player.md)
+            * [播放器全屏](pc/playerfs.md)
+            * [状态和提示](pc/status.md)
+        * [弹幕](pc/danmaku.md)
         * 送礼
-            * [赠送礼物](function/gift.md)
-            * [送礼效果](function/gifteffect.md)
-            * [礼物设定](function/giftdesign.md)
-        * [充值](function/charge.md)
+            * [赠送礼物](pc/gift.md)
+            * [送礼效果](pc/gifteffect.md)
+            * [礼物设定](pc/giftdesign.md)
+        * [充值](pc/charge.md)
         * 聊天列表
-            * [聊天列表](function/chatlist.md)
-            * [观众管理](function/usermanage.md)
-        * [榜单](function/ranking.md)
-        * [推荐信息](function/recommend.md)
-        * [运营位](function/operations.md)
-    * [入口](entrance.md)
+            * [聊天列表](pc/chatlist.md)
+            * [观众管理](pc/usermanage.md)
+        * [榜单](pc/ranking.md)
+        * [推荐信息](pc/recommend.md)
+        * [运营位](pc/operations.md)
+    * [入口](pc/entrance.md)
     * 直播收益（待编写）
         * 佣金获取记录
         * 豆豆红包
         * 直播数据
         * 常见问题
-* APP客户端（待编写）
-    * 功能概述
+* APP客户端
+    * [功能概述](app/overview.md)
     * 直播房间
         * 播放器
-            * 播放器一般
-            * 播放器全屏
-            * 状态和提示
-        * 弹幕
-            * 弹幕显示
-            * 发弹幕
+            * [播放器一般](app/player.md)
+            * [播放器全屏](app/playerfullscreen.md)
+            * [状态和提示](app/status.md)
+        * [弹幕](app/danmaku.md)
         * 送礼
-        * 充值
+            * [赠送礼物](app/gift.md)
+            * [送礼效果](app/gifteffect.md)
+        * [充值](app/charge.md)
         * 聊天列表
-            * 聊天列表
-        * 榜单
-    * 入口
+        	* [聊天列表](app/chat.md)
+        	* [用户卡片](app/userinfo.md)
+        * [榜单](app/ranking.md)
+    * [入口](app/entrance.md)
 * 运营后台（待编写）
     * 主播
         * 主播列表
