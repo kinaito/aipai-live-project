@@ -42,8 +42,8 @@
             * [送礼效果](app/gifteffect.md)
         * [充值](app/charge.md)
         * 聊天列表
-        	* [聊天列表](app/chat.md)
-        	* [用户卡片](app/userinfo.md)
+            * [聊天列表](app/chat.md)
+            * [用户卡片](app/userinfo.md)
         * [榜单](app/ranking.md)
     * [入口](app/entrance.md)
 * 运营后台（待编写）
