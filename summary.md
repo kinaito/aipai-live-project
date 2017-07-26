@@ -46,15 +46,12 @@
             * [用户卡片](app/userinfo.md)
         * [榜单](app/ranking.md)
     * [入口](app/entrance.md)
-* 运营后台（待编写）
-    * 主播
-        * 主播列表
-        * 审核
-        * 新增主播
-    * 房间管理
-        * 停止直播的功能
-        * 配置聊天列表信息的文案模版、样式
-    * 收益数据
-    * 场次数据
-    * 数据统计
+* 运营后台
+    * 直播房间
+        * [房间列表](console/roomlist.md)
+        * [添加房间预告](console/roomnotice.md)
+        * [添加主播](console/newanchor.md)
+    * [收益数据](console/earning.md)
+    * [场次数据](console/livedata.md)
+    * [直播运营位](console/operations-area.md)
 
