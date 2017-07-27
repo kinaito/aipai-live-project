@@ -24,11 +24,8 @@
         * [推荐信息](pc/recommend.md)
         * [运营位](pc/operations.md)
     * [入口](pc/entrance.md)
-    * 直播收益（待编写）
-        * 佣金获取记录
-        * 豆豆红包
-        * 直播数据
-        * 常见问题
+    * 直播收益
+        * [直播收益](pc/live-earning.md)
 * APP客户端
     * [功能概述](app/overview.md)
     * 直播房间
@@ -40,6 +37,7 @@
         * 送礼
             * [赠送礼物](app/gift.md)
             * [送礼效果](app/gifteffect.md)
+            * [礼物设定](app/giftdesign.md)
         * [充值](app/charge.md)
         * 聊天列表
             * [聊天列表](app/chat.md)
@@ -54,4 +52,5 @@
     * [收益数据](console/earning.md)
     * [场次数据](console/livedata.md)
     * [直播运营位](console/operations-area.md)
+    * [礼物配置的参考](console/giftsetting.md)
 
