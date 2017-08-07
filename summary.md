@@ -49,8 +49,9 @@
         * [房间列表](console/roomlist.md)
         * [添加房间预告](console/roomnotice.md)
         * [添加主播](console/newanchor.md)
-    * [收益数据](console/earning.md)
+    * [礼物收益](console/earning.md)
     * [场次数据](console/livedata.md)
+    * [主播数据](console/anchor.md)
     * [直播运营位](console/operations-area.md)
     * [礼物配置的参考](console/giftsetting.md)
 
