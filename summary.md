@@ -27,23 +27,24 @@
     * 直播收益
         * [直播收益](pc/live-earning.md)
 * APP客户端
-    * [功能概述](app/overview.md)
-    * 直播房间
-        * 播放器
-            * [播放器一般](app/player.md)
-            * [播放器全屏](app/playerfullscreen.md)
-            * [状态和提示](app/status.md)
-        * [弹幕](app/danmaku.md)
-        * 送礼
-            * [赠送礼物](app/gift.md)
-            * [送礼效果](app/gifteffect.md)
-            * [礼物设定](app/giftdesign.md)
-        * [充值](app/charge.md)
-        * 聊天列表
-            * [聊天列表](app/chat.md)
-            * [用户卡片](app/userinfo.md)
-        * [榜单](app/ranking.md)
-    * [入口](app/entrance.md)
+	* [功能概述](app/overview.md)
+	* 直播房间
+		* [房间信息](app/roominfo.md)
+		* 播放器
+			* [播放器一般](app/player.md)
+			* [播放器全屏](app/playerfullscreen.md)
+			* [状态和提示](app/status.md)
+		* [弹幕](app/danmaku.md)
+		* 送礼
+			* [赠送礼物](app/gift.md)
+			* [送礼效果](app/gifteffect.md)
+			* [礼物设定](app/giftdesign.md)
+		* [充值](app/charge.md)
+		* 聊天列表
+			* [聊天列表](app/chat.md)
+			* [用户卡片](app/userinfo.md)
+		* [榜单](app/ranking.md)
+	* [入口](app/entrance.md)
 * 运营后台
     * 直播房间
         * [房间列表](console/roomlist.md)
@@ -52,6 +53,5 @@
     * [礼物收益](console/earning.md)
     * [场次数据](console/livedata.md)
     * [主播数据](console/anchor.md)
-    * [直播运营位](console/operations-area.md)
     * [礼物配置的参考](console/giftsetting.md)
 
